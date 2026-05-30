@@ -1,5 +1,7 @@
 # Workflow Interface Lab
 
+![Workflow Interface Demo](./assets/wf-interface-gif.gif)
+
 Experimental UI showcase exploring operational interfaces, workflow-oriented layouts, modular frontend systems, and technical portfolio presentation patterns.
 
 ---
